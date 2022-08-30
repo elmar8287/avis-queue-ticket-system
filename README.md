@@ -2,6 +2,8 @@
 
 ### This project was built both Backend and Frontend (Django/React) for the car service queue system. Daily clients could login via this system and create the ticket and get the queue number
 
+# The Figma prototype is [here](https://www.figma.com/file/Mu0tICy8ZUd3aQw5ZpCXbW/Sign-In?node-id=101%3A2)
+
 # Built with
 
 - Backend
@@ -21,7 +23,8 @@
 - `useDispatch()` -->
 
 # The [Demo Live](#) version is NOT yet available
-<!-- ![screenshot](./public/.png) -->
+![screenshot1](https://user-images.githubusercontent.com/49064106/187414725-46f544d8-5acd-4c43-9dba-9849f3f87712.png)
+![screenshot2](https://user-images.githubusercontent.com/49064106/187414859-688fad42-4bb1-4671-a68f-567d67abdf49.png)
 
 ## Project status: on going
 
@@ -30,7 +33,7 @@
 - copy and run this command to your terminal `git clone https://github.com/elmar8287/avis-queue-ticket-system.git`
 - switch to right directory by `cd avis-queue-ticket-system`
 - instal npm by running this command `python manage.py runserver` (or `python3 manage.py runserver` for the linux (mac also))
-- if you have not installed on your machine the Python and Django, the please refer this [link]("https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt")
+- if you have not installed on your machine the Python and Django, the please refer this [link](https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt)
 
 ## Author
 
